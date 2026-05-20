@@ -708,4 +708,4 @@ function Monthly2026Tab() {
       </div>
     </div>
   );
-}
+}export default Monthly2026Tab;
