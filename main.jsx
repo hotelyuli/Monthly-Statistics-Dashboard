@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './hotel_yuli_dashboard.jsx'
+import YoYDashboard from './hotel_yuli_dashboard.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <YoYDashboard />
   </React.StrictMode>,
 )
