@@ -707,5 +707,5 @@ function Monthly2026Tab() {
         </table>
       </div>
     </div>
-  );
+);
 }
